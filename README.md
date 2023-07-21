@@ -9,7 +9,6 @@ Projeto em React com API simples em Node.
 
 
 
-![Screenshot (86)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/9bb27559-88a7-45a3-bef5-0aa4157331b5)
 ![Uploading Screenshot (85).png…]()
 
 
