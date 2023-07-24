@@ -18,7 +18,7 @@ const port = process.env.PORT
 const connectDB = require('./db/connect')
 
 const start = async () => {
-
+    
 try {
     await connectDB(process.env.MONGO_URI)
     
