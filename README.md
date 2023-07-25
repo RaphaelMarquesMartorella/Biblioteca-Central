@@ -9,8 +9,6 @@ Projeto em React com API simples em Node.
 
 
 
-![Uploading Screenshot (85).png…]()
-
 
 
 
@@ -50,8 +48,6 @@ Projeto em React com API simples em Node.
 
 
 
-![Uploading Screenshot (84).png…]()
-![Uploading Screenshot (83).png…]()
 ![Screenshot (87)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/f1ebba71-ec6f-4865-86fe-d09a4529d9dc)
 
 
