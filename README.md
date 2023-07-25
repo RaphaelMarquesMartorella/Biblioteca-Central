@@ -1,6 +1,9 @@
 
 
-Projeto em React com API simples em Node.
+Projeto em React com API feita com Express.js.
+
+
+React Project made with an Express.js API.
 
 
 
