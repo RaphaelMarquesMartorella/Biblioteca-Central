@@ -2,7 +2,7 @@
 
 # Projeto em React com API feita com Express.js.
 
-#### Para testar dê um 'git clone' no terminal para copiar o projeto, após isso escreva 'npm install', para baixar as dependências, então 'cd projeto-react-dnc' paa ir até a pasta, após isso basta escrever 'npm run dev' apara inciar o projeto.
+#### Para testar dê um 'git clone' no terminal para copiar o projeto, após isso escreva 'npm install', para baixar as dependências, então 'cd projeto-react-dnc' para ir até a pasta, após isso basta escrever 'npm run dev' apara inciar o projeto.
 
 
 # React Project made with an Express.js API.
