@@ -53,9 +53,40 @@
 
 
 
+![Screenshot (88)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/2c5e5c89-0b29-4b5d-8c26-6ba42618246f)
 
 
-![Screenshot (87)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/f1ebba71-ec6f-4865-86fe-d09a4529d9dc)
+
+
+
+
+
+
+
+
+![Screenshot (89)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/b2ea1c46-c6ba-4443-8474-986e27e6eb8a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot (90)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/277eaba9-0ee3-4511-bb0e-da7e0dafaa1d)
+
+
+
+
+
+
 
 
 
