@@ -41,18 +41,6 @@
 
 
 
-![Screenshot (86)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/de926b25-bdf9-4d45-863d-698bcdca25db)
-
-
-
-
-
-
-
-
-
-
-
 ![Screenshot (88)](https://github.com/RaphaelMarquesMartorella/Biblioteca-Central/assets/118463534/2c5e5c89-0b29-4b5d-8c26-6ba42618246f)
 
 
